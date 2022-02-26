@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the proceeding to sentence against Miles Prance, for wilful perjury who was sentenced in the Court of King's-Bench, Westminster: upon a conviction, by his own confession, on the 15th. of June, 1686. In wilfully forswearing himself at the tryals of Robert Green, Lawrence Hill, and Henry Berry, &amp;c in relation to the murther of Sir Edmundbury Godfrey.</title>
+            <author>Prance, Miles, fl. 1678-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75450</idno>
+            <idno type="STC">Wing A345aA</idno>
+            <idno type="STC">ESTC R229652</idno>
+            <idno type="EEBO-CITATION">99899543</idno>
+            <idno type="PROQUEST">99899543</idno>
+            <idno type="VID">153783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2379:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the proceeding to sentence against Miles Prance, for wilful perjury who was sentenced in the Court of King's-Bench, Westminster: upon a conviction, by his own confession, on the 15th. of June, 1686. In wilfully forswearing himself at the tryals of Robert Green, Lawrence Hill, and Henry Berry, &amp;c in relation to the murther of Sir Edmundbury Godfrey.</title>
+                  <author>Prance, Miles, fl. 1678-1689.</author>
+                  <author>England and Wales. Court of King's Bench.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for A.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of text:  This may be printed, R.P. June 25. 1686.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678 --  Early works to 1800.</term>
+               <term>Berry, Henry, d. 1679 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Hill, Lawrence, d. 1679 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Green, Robert, d. 1679 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Trials (Perjury) --  England --  London --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153783:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF THE Proceeding to Sentence AGAINST MILES
+PRANCE, FOR Wilful Perjury; Who was Sentenced in the COURT of King's-Bench,
+<hi>Weſtminſter:</hi> UPON A Conviction, by his Own Confeſſion, on the
+15th. of <hi>June,</hi> 1686. In Wilfully Forſwearing Himſelf at the TRYALS
+of <hi>Robert Green, Lawrence Hill,</hi> and <hi>Henry Berry,</hi> &amp;c In
+Relation to the MURTHER of Sir Edmundbury Godfrey.</head>
+            <p>
+               <hi>MILES PRANCE,</hi> a Silver-Smith, having been the laſt
+<hi>Eaſter</hi> Term, Arraigned upon an Information of <hi>Wilful
+Per<g ref="char:EOLhyphen"/>jury,</hi> Exhibited againſt him in the Court of <hi>Kings-Bench;</hi>
+for Wilfully Forſwearing himſelf, againſt <hi>Robert Green, Lawrence
+Hill,</hi> and <hi>Henry Berry,</hi> &amp;c. In Relation to their Murthering
+Sir <hi>Ed<g ref="char:EOLhyphen"/>mundbury Godfrey,</hi> and for which, upon his Oath,
+<hi>&amp;c.</hi> they were Exe<g ref="char:EOLhyphen"/>cuted
+<pb n="2" facs="tcp:153783:2"/>
+for the ſaid Murther at <hi>Tyburn;</hi> and he, Confeſſing
+himſelf Guil<g ref="char:EOLhyphen"/>ty of the Perjury, ſpecified in the ſaid Information, was,
+on Tueſday the 15th of this Inſtant <hi>June,</hi> again brought to the
+Court of <hi>Kings-Bench,</hi> to receive his Sentence. The Court, having a
+while conſidered the heinouſneſs of the Crime, and puting him in mind of
+it, told him it was well he was ſo ſenſible of his Offence, it being ſo
+great a one as to extend to the taking away the Lives of Innocent Perſons,
+which did agravate it; though One that had before him been found Guilty of two
+notorious Perjuries in that Court continued obſtinate to the laſt; and, for
+ought appears, has not hitherto ſhewn any remorſe. Yet ſeeing he (meaning
+the Priſoner) was ſenſible of his Crime, and had Confeſſed it, the
+Court had conſidered his Condition, and would have ſome Com<g ref="char:EOLhyphen"/>paſſion on
+a true Penitent.</p>
+            <p>The Sentence of the Court was, </p>
+            <p>
+               <hi>That he ſhould pay a Fine of One hundred Pound to the
+King.</hi>
+            </p>
+            <p>
+               <hi>That he ſhould appear before each Court in</hi>
+Weſtminſter-hall, <hi>&amp;c. with a Paper upon his Forehead,
+expreſſing his Crime.</hi>
+            </p>
+            <p>
+               <hi>That on Monday next he ſhould ſtand at</hi>
+Weſt<g ref="char:EOLhyphen"/>minſter <hi>in the Pillory, between the Hours of Eleven and One, for
+the ſpace of an Hour. On Wedneſday, the like, before the</hi> Exchange;
+<hi>and, on the following Monday, at</hi> Charing-Croſs.</p>
+            <p>
+               <hi>And, he was likewiſe Sentenced, to be Whipped from</hi>
+Newgate <hi>to</hi> Tyburn. <hi>And he to con<g ref="char:EOLhyphen"/>tinue in Priſon till all was
+performed.</hi>
+            </p>
+            <p>
+               <hi>Prance,</hi> upon the aformentioned Exhortation Declared,
+That his laſt Confeſſion was the Truth; and that he was very ſenſible
+of, and ſorry for what he had done; upon which the Court deſired God to
+continue him ſo.</p>
+            <p>The Sentence paſt, the Keeper of the <hi>Gate-houſe</hi> was
+ordered to take back his Priſoner, which he accordingly did, conveying him to
+the <hi>Gate-houſe</hi> Priſon, where he now remains in Cuſtody.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed,</p>
+            <closer>
+               <signed>R. P.</signed> 
+               <dateline>
+                  <date> June
+<hi>25. 1686.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> A. M. <hi>1686.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
